@@ -5,7 +5,7 @@
 
 
 - 🔭 I am currently working on ECOAR
-- 🌱 I’m currently improving React
+- 🌱 I’m currently improving React and Node
 - 👯 I’m looking to collaborate on web devolopment
 - 📫 How to reach me: guilhermebruzzi20@gmail.com
 
