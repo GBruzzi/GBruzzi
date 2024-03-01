@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GBruzzi&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermebruzzi" /> </p>
 
 
-- 🔭 I am currently working on ECOAR
+- 🔭 I am currently looking for a job
 - 🌱 I’m currently improving React and Node
 - 👯 I’m looking to collaborate on web devolopment
 - 📫 How to reach me: guilhermebruzzi20@gmail.com
